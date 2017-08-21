@@ -1,15 +1,17 @@
 # Using Cloud
 
-This repository provides:
+This repository provides help for people who want to:
 
-## 1. help for people deciding if an application is secure
-- links to NCSC guidance helping them choose secure applications, and evaluate the security of specific services (not yet available)
+## 1. check if an application is secure
+Including links to NCSC guidance on choosing secure applications, and evaluate the security of specific services (not yet available)
 
-## [2. help for technology people to configure applications securely](help-for-technology-people)
- - helping them set up specific services in a secure way
+## [2. configure an application securely](help-for-technology-people)
+Including secure email configuration for:
+* [G Suite](help-for-technology-people/Set-up-government-email-services-securely/G-Suite.md)
+* [Microsoft Office 365](help-for-technology-people/Set-up-government-email-services-securely/Office-365.md)
 
-## 3. help for people to use applications securely
- - includes the following applications:
+## 3. use an application securely
+Including the following applications:
 * [Basecamp](help-for-end-users/Basecamp/Using-Basecamp-securely)
 * [Confluence-Cloud](help-for-end-users/Confluence-Cloud/Using-Confluence-Cloud-securely)
 * [HipChat](help-for-end-users/HipChat/Using-HipChat-securely)
@@ -28,7 +30,4 @@ This repository provides:
 
 Report issues with existing documents through the 'Issues' tab above (requires a Github account)
 Request access to the repository to submit changes directly, or upload new documents
-Use these documents as templates and submit your own guides for other applications.
-
- 
-
+Use these documents as templates and submit your own guides for other applications
