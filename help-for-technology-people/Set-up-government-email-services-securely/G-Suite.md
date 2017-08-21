@@ -1,3 +1,7 @@
+[Return to the index page](/using-cloud/) | [Print this page](https://gitprint.com/alphagov/using-cloud/edit/master/help-for-technology-people/Set-up-government-email-services-securely/G-Suite.md)
+
+***
+
 ## Set up government email services securely - G Suite
 
 How to implement the guidance on [securing government email](https://www.gov.uk/guidance/securing-government-email) in G Suite (formerly Google Apps) to provide encryption, anti-spoofing, and to pass an assessment. Doing these things will add your domain to a whitelist of secure domains which organisations can use to filter email.
@@ -143,3 +147,7 @@ Refer to the [generic implementation guide](https://www.gov.uk/guidance/set-up-g
 
 ### Assessment
 Refer to the [generic implementation guide](https://www.gov.uk/guidance/set-up-government-email-services-securely) for information on assurance
+
+***
+
+[Return to the index page](/using-cloud/) | [Print this page](https://gitprint.com/alphagov/using-cloud/edit/master/help-for-technology-people/Set-up-government-email-services-securely/G-Suite.md)
