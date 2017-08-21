@@ -1,4 +1,4 @@
-[Return to the index page](/using-cloud/) | [Print this page](https://gitprint.com/alphagov/using-cloud/edit/master/help-for-technology-people/Set-up-government-email-services-securely/G-Suite.md)
+[Return to the index page](/using-cloud/) | [Print this page](https://gitprint.com/alphagov/using-cloud/blob/master/help-for-technology-people/Set-up-government-email-services-securely/G-Suite.md)
 
 ***
 
