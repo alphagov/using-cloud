@@ -1,4 +1,4 @@
-[Return to the index page](/using-cloud/help-for-end-users/) | [Print this page](https://gitprint.com/alphagov/using-cloud/blob/master/help-for-end-users/Trello/Using-Trello-securely.md)
+[Return to the index page](/using-cloud/) | [Print this page](https://gitprint.com/alphagov/using-cloud/blob/master/help-for-end-users/Trello/Using-Trello-securely.md)
 
 ***
 
@@ -84,4 +84,4 @@ You may also get help from your internal IT team if they have agreed to do it.
 
 ***
 
-[Return to the index page](/using-cloud/help-for-end-users/) | [Print this page](https://gitprint.com/alphagov/using-cloud/blob/master/help-for-end-users/Trello/Using-Trello-securely.md)
+[Return to the index page](/using-cloud/) | [Print this page](https://gitprint.com/alphagov/using-cloud/blob/master/help-for-end-users/Trello/Using-Trello-securely.md)
