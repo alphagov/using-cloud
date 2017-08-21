@@ -29,6 +29,6 @@ Including the following applications:
 >
 > The existence of guidance for a service doesn't imply endorsement or provide a guarantee of security.
 
-Report issues with existing documents through the 'Issues' tab above (requires a Github account)
+Report issues with existing documents through the 'Issues' tab in the [Github repository](https://github.com/alphagov/using-cloud) (requires a Github account)
 Request access to the repository to submit changes directly, or upload new documents
 Use these documents as templates and submit your own guides for other applications
