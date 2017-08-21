@@ -1,4 +1,4 @@
-[Return to the index page](/using-cloud/help-for-end-users/) | [Print this page](https://gitprint.com/alphagov/using-cloud/blob/master/help-for-end-users/Lucidchart/Using-Lucidchart-securely.md)
+[Return to the index page](/using-cloud/) | [Print this page](https://gitprint.com/alphagov/using-cloud/blob/master/help-for-end-users/Lucidchart/Using-Lucidchart-securely.md)
 
 ***
 
@@ -71,4 +71,4 @@ Consider a paid Enterprise account to prevent unmonitored use, manage document a
 
 ***
 
-[Return to the index page](/using-cloud/help-for-end-users/) | [Print this page](https://gitprint.com/alphagov/using-cloud/blob/master/help-for-end-users/Lucidchart/Using-Lucidchart-securely.md)
+[Return to the index page](/using-cloud/) | [Print this page](https://gitprint.com/alphagov/using-cloud/blob/master/help-for-end-users/Lucidchart/Using-Lucidchart-securely.md)
