@@ -1,4 +1,4 @@
-[Return to the index page](/using-cloud/help-for-end-users/) | [Print this page](https://gitprint.com/cheyrou23/using-cloud/blob/master/help-for-end-users/Slack/Using-Slack-securely.md)
+[Return to the index page](/using-cloud/help-for-end-users/) | [Print this page](https://gitprint.com/alphagov/using-cloud/blob/master/help-for-end-users/Slack/Using-Slack-securely.md)
 
 ***
 
@@ -105,4 +105,4 @@ You may also access further support from:
 
 ***
 
-[Return to the index page](/using-cloud/help-for-end-users/) | [Print this page](https://gitprint.com/cheyrou23/using-cloud/blob/master/help-for-end-users/Slack/Using-Slack-securely.md)
+[Return to the index page](/using-cloud/help-for-end-users/) | [Print this page](https://gitprint.com/alphagov/using-cloud/blob/master/help-for-end-users/Slack/Using-Slack-securely.md)
