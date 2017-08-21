@@ -2,15 +2,15 @@
 
 This repository provides help for people who want to:
 
-## 1. check if an application is secure
+### 1. check if an application is secure
 Including links to NCSC guidance on choosing secure applications, and evaluate the security of specific services (not yet available)
 
-## [2. configure an application securely](help-for-technology-people)
+### [2. configure an application securely](help-for-technology-people)
 Including secure email configuration for:
 * [G Suite](help-for-technology-people/Set-up-government-email-services-securely/G-Suite.md)
 * [Microsoft Office 365](help-for-technology-people/Set-up-government-email-services-securely/Office-365.md)
 
-## 3. use an application securely
+### 3. use an application securely
 Including the following applications:
 * [Basecamp](help-for-end-users/Basecamp/Using-Basecamp-securely)
 * [Confluence-Cloud](help-for-end-users/Confluence-Cloud/Using-Confluence-Cloud-securely)
