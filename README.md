@@ -8,6 +8,7 @@ Including links to NCSC guidance on choosing secure applications, and evaluate t
 ### [2. configure an application securely](help-for-technology-people)
 Including secure email configuration for:
 * [G Suite](help-for-technology-people/Set-up-government-email-services-securely/G-Suite.md)
+* [Mimecast](help-for-technology-people/Set-up-government-email-services-securely/Mimecast.md)
 * [Microsoft Office 365](help-for-technology-people/Set-up-government-email-services-securely/Office-365.md)
 
 ### 3. use an application securely
