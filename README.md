@@ -1,5 +1,15 @@
 # Using Cloud
 
+<!-- ---
+SHOULD BE:
+Intro, intro, intro, blah
+
+1. help deciding if an application is secure (link to NCSC)
+2. help configuring applications securely
+3. help people to use the applications securely
+---
+-->
+
 This repository contains documents for:
 
 ## [1. end users (or less technical support staff)](help-for-end-users)
