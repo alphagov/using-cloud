@@ -1,4 +1,4 @@
-[Return to the index page](/using-cloud/help-for-end-users/) | [Print this page](https://gitprint.com/alphagov/using-cloud/blob/master/help-for-end-users/MailChimp/Using-MailChimp-securely.md)
+[Return to the index page](/using-cloud/) | [Print this page](https://gitprint.com/alphagov/using-cloud/blob/master/help-for-end-users/MailChimp/Using-MailChimp-securely.md)
 
 ***
 
@@ -83,4 +83,4 @@ You may also access further support from your internal IT team (if you have agre
 
 ***
 
-[Return to the index page](/using-cloud/help-for-end-users/) | [Print this page](https://gitprint.com/alphagov/using-cloud/blob/master/help-for-end-users/MailChimp/Using-MailChimp-securely.md)
+[Return to the index page](/using-cloud/) | [Print this page](https://gitprint.com/alphagov/using-cloud/blob/master/help-for-end-users/MailChimp/Using-MailChimp-securely.md)
