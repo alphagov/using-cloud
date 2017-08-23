@@ -65,7 +65,7 @@ Ensure your account looks official and similar to other government Trello accoun
 * use a recognisable profile photo
 * add your role to the Bio section
 
-Your Trello profile [is public](https://trello.com/nick_woodcraft_gds), but doesn’t show up in web searches or include activity, comments, cards, organisation, or other details.
+Your Trello profile [is public](https://trello.com/nick_woodcraft_gds), but doesn’t show up in web searches or include activity, comments, cards, organisation, or other details, except on boards that are public.
 
 You can alert others to content you have shared on Trello using @mention in a card comment (for example @alex_black_moj). Take the [Trello tour](https://trello.com/tour) to find out more.
 
