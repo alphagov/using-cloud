@@ -55,7 +55,7 @@ To create an auto-reply:
  4. give the rule a name and turn it on
 
 
-Do not use the Out of office or Automatic replies option as they only respond to the first message.
+Do not use the Out of office or Automatic replies option as they only respond to the first message. The inbound email sometimes appears 'from' pm_bounces@return-path.domaininformation.service.gov.uk. Make sure you still send the reply to emailsecurity@domaininformation.service.gov.uk.
 
 >After resetting the password you can complete the setup using the Outlook Web app. [Tell us the email address](https://emailassurance.zendesk.com/hc/en-us/requests/new?ticket_form_id=130185), then use the email we send to create a rule and change the settings accordingly.
 
