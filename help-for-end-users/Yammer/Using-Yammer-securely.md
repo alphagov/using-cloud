@@ -37,7 +37,7 @@ To protect your data when using Yammer, make sure you:
 When using Yammer, you should also be aware that content, including archived or private content, can be:
 
 - disclosed publicly under the [Freedom of Information Act](https://ico.org.uk/for-organisations/guide-to-freedom-of-information/what-is-the-foi-act/)
-- [exported and viewed](https://confluence.atlassian.com/hipchatkb/exporting-chat-history-753404166.html) by administrators in paid Yammer accounts, including private messages and groups
+- [exported and viewed](https://support.office.com/en-gb/article/Monitoring-your-Yammer-data-Yammer-admin-guide-8c4651fa-12c2-4ced-b4ea-2200c0a630ed) by administrators in paid Yammer accounts, including private messages and groups
 - [subject to legal requests to share data](https://www.microsoft.com/EN-US/privacystatement/OnlineServices/Default.aspx) by courts, government agencies, or parties involved in litigation in the US
 
 Microsoft - who run Yammer - have signed up to the [EU-US Privacy Shield](https://privacy.microsoft.com/en-gb/microsoft-eu-us-privacy-shield) which requires them to follow European data protection requirements for personal data for their European customers. [You own the data](https://www.microsoft.com/EN-US/privacystatement/OnlineServices/Default.aspx) you put in Yammer, and their technical security is similar to other popular public cloud services.
