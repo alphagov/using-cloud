@@ -18,6 +18,7 @@ Including the following applications:
 * [HipChat](help-for-end-users/HipChat/Using-HipChat-securely)
 * [JIRA-Cloud](help-for-end-users/JIRA-Cloud/Using-JIRA-Cloud-securely)
 * [Lucidchart](help-for-end-users/Lucidchart/Using-Lucidchart-securely)
+* [Office 365](help-for-end-users/Office365/Using-Office-365-securely)
 * [MailChimp](help-for-end-users/MailChimp/Using-MailChimp-securely)
 * [Slack](help-for-end-users/Slack/Using-Slack-securely)
 * [Smartsheet](help-for-end-users/Smartsheet/Using-Smartsheet-securely)
