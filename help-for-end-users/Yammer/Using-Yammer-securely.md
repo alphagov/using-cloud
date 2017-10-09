@@ -72,7 +72,7 @@ For help using Yammer, you can use their [getting started guide](https://docs.co
 
 Yammer and Microsoft offer support through a:
 
-- [support page](https://support.atlassian.com/)
+- [support page](https://support.office.com/en-gb/yammer)
 - [status page](https://portal.office.com/servicestatus)
 
 You may also get help from your internal IT team if they have agreed to do it.
