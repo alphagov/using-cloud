@@ -1,4 +1,4 @@
-[Return to the index page](/using-cloud/) | [Print this page](https://gitprint.com/alphagov/using-cloud/blob/master/help-for-end-users/Slack/Using-Slack-securely.md)
+[Return to the index page](/using-cloud/) | [Print this page](https://gitprint.com/alphagov/using-cloud/blob/master/help-for-end-users/Microsoft-Teams/Using-Microsoft-Teams.md)
 
 ***
 
@@ -45,7 +45,7 @@ Using Teams for social or personal use must:
 * not affect your performance or disrupt others
 * follow the [Civil Service Code](https://www.gov.uk/government/publications/civil-service-code/the-civil-service-code)
 
-Microsoft have signed up to the [EU-US Privacy Shield](https://www.microsoft.com/en-us/trustcenter/cloudservices/office365) which requires them to follow European data protection requirements for personal data for their European customers. [You own the data](https://slack.com/privacy-policy) you put in Slack, and their technical security is similar to other popular public cloud services.
+Microsoft have signed up to the [EU-US Privacy Shield](https://www.microsoft.com/en-us/trustcenter/cloudservices/office365) which requires them to follow European data protection requirements for personal data for their European customers. [You own the data](https://www.microsoft.com/en-us/trustcenter/cloudservices/office365) you put in Teams, and their technical security is similar to other popular public cloud services.
 
 ### Managing information
 
@@ -92,4 +92,4 @@ You may also access further support from:
 
 ***
 
-[Return to the index page](/using-cloud/) | [Print this page](https://gitprint.com/alphagov/using-cloud/blob/master/help-for-end-users/Slack/Using-Slack-securely.md)
+[Return to the index page](/using-cloud/) | [Print this page](https://gitprint.com/alphagov/using-cloud/blob/master/help-for-end-users/Microsoft-Teams/Using-Microsoft-Teams.md)
