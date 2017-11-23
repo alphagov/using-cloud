@@ -4,7 +4,7 @@
 
 ## Using Microsoft Teams in Government
 
-Government staff are responsible for checking the applications they use are secure. This guidance will help you use Teams to communicate securely with colleagues.
+Government staff are responsible for checking the applications they use are secure. This guidance will help you use Microsoft Teams to communicate securely with colleagues.
 
 [Teams](https://teams.microsoft.com) is a cloud-based set of team collaboration tools and services that provide group text, voice, and video chat and connects to SharePoint and Outlook calendar to support collaboration. 
 
