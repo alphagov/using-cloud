@@ -1,4 +1,4 @@
-[Return to the index page](/using-cloud/) | [Print this page](https://gitprint.com/alphagov/using-cloud/blob/master/help-for-end-users/Microsoft-Teams/Using-Microsoft-Teams.md)
+[Return to the index page](/using-cloud/) | [Print this page](https://gitprint.com/alphagov/using-cloud/blob/master/help-for-end-users/Microsoft-Teams/Using-Microsoft-Teams-securely.md)
 
 ***
 
@@ -9,7 +9,7 @@ Government staff are responsible for checking the applications they use are secu
 [Teams](https://teams.microsoft.com) is a cloud-based set of team collaboration tools and services that provide group text, voice, and video chat and connects to SharePoint and Outlook calendar to support collaboration. 
 
 ### Securing your account
-Teams is part of the Microsoft Office 365 suite of applications, so your access is secured in the same was as other Office 365 applications. This should include:  
+Teams is part of the Microsoft Office 365 suite of applications, so your access is secured in the same way as other Office 365 applications. This should include:  
 
 * a password made up of [3 random words](https://www.ncsc.gov.uk/blog-post/three-random-words-or-thinkrandom-0)
 * [two-factor authentication](https://aka.ms/MFASetup)
@@ -92,4 +92,4 @@ You may also access further support from:
 
 ***
 
-[Return to the index page](/using-cloud/) | [Print this page](https://gitprint.com/alphagov/using-cloud/blob/master/help-for-end-users/Microsoft-Teams/Using-Microsoft-Teams.md)
+[Return to the index page](/using-cloud/) | [Print this page](https://gitprint.com/alphagov/using-cloud/blob/master/help-for-end-users/Microsoft-Teams/Using-Microsoft-Teams-securely.md)
