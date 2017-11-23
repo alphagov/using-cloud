@@ -20,7 +20,7 @@ Including the following applications:
 * [Lucidchart](help-for-end-users/Lucidchart/Using-Lucidchart-securely)
 * [MailChimp](help-for-end-users/MailChimp/Using-MailChimp-securely)
 * [Microsoft Office 365](help-for-end-users/Office365/Using-Office-365-securely)
-* [Microsoft Teams](help-for-end-users/Microsoft-Teams/Using-Microsoft-Teams-securely)
+* [Microsoft Teams](help-for-end-users/Microsoft-Teams/Using-Microsoft-Teams–securely)
 * [Slack](help-for-end-users/Slack/Using-Slack-securely)
 * [Smartsheet](help-for-end-users/Smartsheet/Using-Smartsheet-securely)
 * [Trello](help-for-end-users/Trello/Using-Trello-securely)
